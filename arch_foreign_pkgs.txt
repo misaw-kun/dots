@@ -1,0 +1,5 @@
+pfetch
+pop-fonts
+ruby-fusuma
+yay
+yay-debug
