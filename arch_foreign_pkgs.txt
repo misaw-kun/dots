@@ -1,5 +1,9 @@
+asusctl
+git-credential-oauth
 pfetch
 pop-fonts
 ruby-fusuma
+sakura
+snapper-gui-git
 yay
 yay-debug
