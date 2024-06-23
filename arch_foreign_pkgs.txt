@@ -1,0 +1,7 @@
+btrfs-assistant
+pfetch
+pop-fonts
+snapper-support
+xfce4-docklike-plugin
+yay
+yay-debug
