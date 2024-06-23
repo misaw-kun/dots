@@ -1,9 +1,7 @@
-asusctl
-git-credential-oauth
+btrfs-assistant
 pfetch
 pop-fonts
-ruby-fusuma
-sakura
-snapper-gui-git
+snapper-support
+xfce4-docklike-plugin
 yay
 yay-debug
