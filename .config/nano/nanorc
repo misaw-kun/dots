@@ -1,0 +1,27 @@
+set linenumbers
+set autoindent
+set locking
+set tabsize 4
+set tabstospaces
+set trimblanks
+set constantshow
+set titlecolor brightwhite,normal
+set keycolor brightcyan
+set numbercolor yellow,normal
+set indicator
+set bookstyle
+set afterends
+set wordchars "_"
+set zap
+set atblanks
+set mouse
+set multibuffer
+
+include "/usr/share/nano/*.nanorc"
+include "/usr/share/nano/extra/*.nanorc"
+
+bind ^z undo main
+bind ^y redo main
+bind F1 exit main
+bind F2 savefile main
+bind F3 findnext main
